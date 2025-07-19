@@ -18,7 +18,7 @@ configure terminal
 interface GigabitEthernet0/0
 standby 1 track GigabitEthernet0/0
 exit
-
+```
 ------
 ![Cкриншот страницы шаблона с названием «Задание 1»](img/point_1.png)
 ![Cкриншот страницы шаблона с названием «Задание 1»](img/point_2.png)
