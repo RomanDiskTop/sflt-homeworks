@@ -80,4 +80,4 @@ vrrp_instance VI_1 {
     }
 }
 ```
-![Cкриншот «Задание 2»](img/point_2.png)
+![Cкриншот «Задание 2»](img/point_3.png)
